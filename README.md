@@ -1,4 +1,4 @@
-# Hi there! I'm juoum.
+# Hi there! I'm Samet.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Samet98&show_icons=true&theme=tokyonight)
 
